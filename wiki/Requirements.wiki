@@ -1,3 +1,6 @@
 #labels Featured
 JAVA Installed 
 and path and class path should be set to '.;' at the end to the existing path. 
+
+Limitation 
+Currently This tool Works only on Oracle Database.
