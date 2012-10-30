@@ -7,7 +7,7 @@ Step 2:
 After Downloading is finished, Extract the package to any location you wish. 
 then you should find files in the folder as shown in the below screen.
 
-https://docs.google.com/open?id=0B9qZLSUSsWsxOFF1VWVkQlN1blk
+https://lh6.googleusercontent.com/eTjCKEFsrdy5QHEbhOHhWtVeIjkhxMLhMON0GannhqAVJkXd84hyEM_ZYk0dxXLufsRheHpZ7j8
 
 Please make sure that you have all the requirements need to run the jar file.
 Step 3: Just Double click on the jar from the folder or Run execute jar command from the Command prompt 
