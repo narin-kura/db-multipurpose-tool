@@ -1,0 +1,7 @@
+# Requirement #
+Only requirement is java should be installed in the system and run jar files from any location.
+JAVA Installed
+**path and class path should be set to '.;' at the end to the existing path.**
+
+# **Limitation** #
+**Currently This tool Works only on Oracle Database.**

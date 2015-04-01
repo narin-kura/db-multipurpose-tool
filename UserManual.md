@@ -1,0 +1,19 @@
+# How to use the application #
+
+**Step 1:**
+Download the application package
+
+http://code.google.com/p/db-multipurpose-tool/downloads/list
+
+**Step 2:**
+After Downloading is finished, Extract the package to any location you wish.
+then you should find files in the folder as shown in the below screen.
+
+http://4.bp.blogspot.com/-gI74q1ssaBI/UI9H3HL1ohI/AAAAAAAAHGc/IP6aYcewTb8/s1600/extract.JPG
+
+Please make sure that you have all the requirements need to run the jar file.
+
+**Step 3:**
+> Just Double click on the jar from the folder or Run execute jar command from the Command prompt.
+You should find Screen shot as below and should follow the instructions in the Screenshot
+http://4.bp.blogspot.com/-ULMNDW-jBPs/UI9J5dixJLI/AAAAAAAAHGk/Dblef9Xo6Tw/s1600/Blank+Screen.JPG
